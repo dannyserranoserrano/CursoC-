@@ -1,0 +1,15 @@
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/bin/Debug/net6.0/Prueba Visual
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/bin/Debug/net6.0/Prueba Visual.deps.json
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/bin/Debug/net6.0/Prueba Visual.runtimeconfig.json
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/bin/Debug/net6.0/Prueba Visual.dll
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/bin/Debug/net6.0/Prueba Visual.pdb
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/obj/Debug/net6.0/Prueba Visual.csproj.AssemblyReference.cache
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/obj/Debug/net6.0/Prueba Visual.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/obj/Debug/net6.0/Prueba Visual.AssemblyInfoInputs.cache
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/obj/Debug/net6.0/Prueba Visual.AssemblyInfo.cs
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/obj/Debug/net6.0/Prueba Visual.csproj.CoreCompileInputs.cache
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/obj/Debug/net6.0/Prueba Visual.dll
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/obj/Debug/net6.0/refint/Prueba Visual.dll
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/obj/Debug/net6.0/Prueba Visual.pdb
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/obj/Debug/net6.0/Prueba Visual.genruntimeconfig.cache
+/Users/dserrano82/Library/CloudStorage/OneDrive-HIBERUSSISTEMASINFORMATICOSS.L/Documentos personales/VisualStudioCode/C#/Prueba Visual/Prueba Visual/obj/Debug/net6.0/ref/Prueba Visual.dll
